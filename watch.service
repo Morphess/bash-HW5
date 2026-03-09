@@ -1,0 +1,9 @@
+[Unit]
+Description=Watch directory service
+
+[Service]
+ExecStart=/home/morphes/watch_directory.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

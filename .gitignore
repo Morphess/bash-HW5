@@ -1,0 +1,20 @@
+# logs
+*.log
+
+# temporary files
+*.tmp
+*.swp
+
+# system files
+.DS_Store
+Thumbs.db
+
+# editors
+.vscode/
+.idea/
+
+# bash history backups
+*~
+
+# test files
+*.back
