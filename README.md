@@ -16,8 +16,6 @@ The project includes:
 - Command line arguments
 - Creating and running a **Systemd service**
 
-All tasks were completed on **Fedora Linux**.
-
 ---
 
 # Bash Exercises
