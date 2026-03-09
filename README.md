@@ -7,14 +7,14 @@ The project demonstrates Linux automation skills including scripting, file opera
 
 The project includes:
 
-* Basic Bash scripts
-* Conditional statements
-* Loops
-* Arrays
-* File manipulation
-* Error handling
-* Command line arguments
-* Creating and running a **Systemd service**
+- Basic Bash scripts
+- Conditional statements
+- Loops
+- Arrays
+- File manipulation
+- Error handling
+- Command line arguments
+- Creating and running a **Systemd service**
 
 All tasks were completed on **Fedora Linux**.
 
